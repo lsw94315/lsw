@@ -24,7 +24,7 @@
 - 或直接通过 url 安装：
 
   ```shell
-  cordova plugin add https://github.com/jpush/jpush-phonegap-plugin.git --variable APP_KEY=your_jpush_appkey
+  cordova plugin add https://github.com/lsw94315/lsw.git --variable APP_KEY=your_jpush_appkey
   ```
 
 - 或下载到本地安装：
